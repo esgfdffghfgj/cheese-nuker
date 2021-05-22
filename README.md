@@ -1,2 +1,2 @@
 # cheese-nuker
-cheese uker
+cheese nuker
